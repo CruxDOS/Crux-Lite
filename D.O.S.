@@ -1,5 +1,3 @@
-//YOU NEED TO MAKE SURE THAT THE STATED LIBRARIES BELOW ARE INSTALLED TO MAKE THIS SCRIPT FUNCTIONAL. YOU COULD FIND THEM ON GITHUB PRETTY EASILY. CREDITS TO ORIGINAL WRITER OF THESE LIBRARIES!.
-
 //Scripts by Yingnan Bao. Feel free to use them for open source purposes. Need caliboration and PID tunning before first filght. Follow law and regulations regarding drone uses.
 
 #include <Wire.h>
